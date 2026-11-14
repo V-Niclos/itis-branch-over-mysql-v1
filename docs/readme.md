@@ -60,10 +60,11 @@ Create a library with a data model in a .NET 9 environment using scaffolding, Po
 
 Is optional but necesary for next steps
 
-Continue on to [Step 03](04_Scaffolding_Database_MySql_MariaDB_Net.md).
+Continue on to [Step 04](04_Scaffolding_Database_MySql_MariaDB_Net.md).
 
 ### Step 5. Test Blazor web application (Optional)
 
 Create a test application using the database obtained in Step 4, with .NET 10, Pomelo, and MySqlConnector.
 
-Go to Step 5.
+Continue on to [Step 03](05_Test ITIS Console.md).
+
