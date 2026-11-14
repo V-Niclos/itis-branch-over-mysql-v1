@@ -54,7 +54,7 @@ This guide uses turtles (*Testudines*, TSN `948936`) as an example. You can use 
 
 The resulting clone will be named *testudines_itis*.
 
-Continue on to [Step 02](02_Create_Clon_ITIS_with_utf8mb4_Encoding.md).
+Continue on to [Step 03](03_Reduce_ITIS_Database_to_Single_Taxonomic_Branch.md).
 
 ### Step 4. Data model library scaffolding (Optional)
 
