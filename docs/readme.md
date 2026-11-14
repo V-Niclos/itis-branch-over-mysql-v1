@@ -2,8 +2,6 @@
 
 *Updated 2016-11-12*
 
-URL:
-
 ------
 
 ## General objective
