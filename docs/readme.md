@@ -54,9 +54,11 @@ The resulting clone will be named *testudines_itis*.
 
 Continue on to [Step 03](03_Reduce_ITIS_Database_to_Single_Taxonomic_Branch.md).
 
-### Step 4. Data model library scaffolding (Optional)
+### 04 Scaffolding Database MySql - MariaDB Using .Net and Pomelo(optional)
 
 Create a library with a data model in a .NET 9 environment using scaffolding, Pomelo, and MySqlConnector.
+
+Is optional but necesary for next steps
 
 Continue on to [Step 03](04_Scaffolding_Database_MySql_MariaDB_Net.md).
 
