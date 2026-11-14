@@ -1,15 +1,10 @@
-### 05 Test ITIS Console
-
-
-
+### 05 Test ITIS using Console .Net 10
 
 
 ### Environment
 
 Net 10
-
-
-
+Visual studio
 
 ### References
 
