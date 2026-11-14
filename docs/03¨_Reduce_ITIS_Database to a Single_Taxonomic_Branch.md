@@ -2,7 +2,7 @@
 
 ```
 
-# Step 3: Reduce the ITIS Database to a Single Taxonomic Branch
+# Step 03: Reduce the ITIS Database to a Single Taxonomic Branch
 
 **ITIS: Integrated Taxonomic Information System**
 
