@@ -66,5 +66,11 @@ Continue on to [Step 04](04_Scaffolding_Database_MySql_MariaDB_Net.md).
 
 Create a test application console, using the database obtained in Step 4, with .NET 10, Pomelo, and MySqlConnector.
 
-Continue on to [Step 03](05_Test ITIS Console.md).
+Continue on to [Step 05](05_Test ITIS Console.md).
+
+## 06 Test using Blazor Net. 10
+
+Create a simple web applictation Blazor Net. 10, for using the database obtained in Step 4, List taxonomic units 
+
+Continue on to [Step 06](05_Test ITIS Console.md).
 
