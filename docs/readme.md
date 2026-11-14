@@ -37,7 +37,7 @@ Install a local clone of the ITIS (*Integrated Taxonomic Information System*) da
 
 The resulting clone will be named *ITIS*.
 
-Continue on to [Step 01](docs/01_Instalation_ITIS.md).
+Continue on to [Step 01](01_Instalation_ITIS.md).
 
 
 
