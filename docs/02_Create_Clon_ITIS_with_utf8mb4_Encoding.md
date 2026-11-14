@@ -1,4 +1,4 @@
-- # Step 2: Create a Clone of the ITIS Database with `utf8mb4` Encoding
+- # Step 02: Create a Clone of the ITIS Database with `utf8mb4` Encoding
 
   *Guide updated on November 10, 2026.*
 
