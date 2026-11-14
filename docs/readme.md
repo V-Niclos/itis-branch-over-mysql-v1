@@ -46,8 +46,8 @@ Continue on to [Step 01](01_Instalation_ITIS.md).
 Create a complete clone of ITIS encoded in `utf8mb4` to make it easier to use internationally, with particular emphasis on resolving encoding issues.
 
 The resulting clone will be named *ITIS_utf8mb4*.
+Continue on to [Step 02](02_Create_Clon_ITIS_with_utf8mb4_Encode.md).
 
-Go to Step 2.
 
 #### Step 3. Create a clone limited to a taxonomic branch (Optional)
 
