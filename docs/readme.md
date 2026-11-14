@@ -48,14 +48,13 @@ Create a complete clone of ITIS encoded in `utf8mb4` to make it easier to use in
 The resulting clone will be named *ITIS_utf8mb4*.
 Continue on to [Step 02](02_Create_Clon_ITIS_with_utf8mb4_Encoding.md).
 
-
-#### Step 3. Create a clone limited to a taxonomic branch (Optional)
+#### Step 03: Reduce the ITIS Database to a Single Taxonomic Branch.
 
 This guide uses turtles (*Testudines*, TSN `948936`) as an example. You can use any other branch, such as reptiles (*Reptilia*, TSN `173747`), mammals (*Mammalia*, TSN `179913`), or birds (*Aves*, TSN `174371`). Look up other TSNs at [itis.gov](https://itis.gov/).
 
 The resulting clone will be named *testudines_itis*.
 
-Go to Step 3.
+Continue on to [Step 02](02_Create_Clon_ITIS_with_utf8mb4_Encoding.md).
 
 ### Step 4. Data model library scaffolding (Optional)
 
