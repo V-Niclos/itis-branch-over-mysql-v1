@@ -58,7 +58,7 @@ Continue on to [Step 03](03_Reduce_ITIS_Database_to_Single_Taxonomic_Branch.md).
 
 Create a library with a data model in a .NET 9 environment using scaffolding, Pomelo, and MySqlConnector.
 
-Go to Step 4.
+Continue on to [Step 03](04_Scaffolding_Database_MySql_MariaDB_Net.md).
 
 ### Step 5. Test Blazor web application (Optional)
 
