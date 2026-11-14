@@ -62,9 +62,9 @@ Is optional but necesary for next steps
 
 Continue on to [Step 04](04_Scaffolding_Database_MySql_MariaDB_Net.md).
 
-### Step 5. Test Blazor web application (Optional)
+### 05 Test ITIS using Console .Net 10
 
-Create a test application using the database obtained in Step 4, with .NET 10, Pomelo, and MySqlConnector.
+Create a test application console, using the database obtained in Step 4, with .NET 10, Pomelo, and MySqlConnector.
 
 Continue on to [Step 03](05_Test ITIS Console.md).
 
