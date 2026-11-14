@@ -37,7 +37,9 @@ Install a local clone of the ITIS (*Integrated Taxonomic Information System*) da
 
 The resulting clone will be named *ITIS*.
 
-Go to Step 1.
+Continue on to [Step 01](docs/01_Instalation_ITIS.md).
+
+
 
 #### Step 2. Create a UTF-8 clone of ITIS (Optional)
 
