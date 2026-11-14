@@ -1,4 +1,4 @@
-## Step 6: Test the Blazor integration
+## Step 06: Test the Blazor integration using Net 10
 
 ### Objective
 
