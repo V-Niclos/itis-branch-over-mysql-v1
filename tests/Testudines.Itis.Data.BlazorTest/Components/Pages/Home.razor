@@ -1,0 +1,51 @@
+﻿@page "/"
+
+
+@rendermode InteractiveServer
+@using Microsoft.EntityFrameworkCore
+@using Testudines.Data.Itis
+@using Testudines.Data.Itis.Context;
+@using Testudines.Data.Itis.Entities;
+@inject IDbContextFactory<ItisDbContext> DbFactory
+
+
+<PageTitle>Home</PageTitle>
+
+<h3>List ITIS taxonomic Units</h3>
+
+@if (rows is null)
+{
+    <p>Loading ...</p>
+}
+else
+{
+    <ul>
+        @foreach (var item in rows)
+        {
+            <li>@item.tsn:  @item.complete_name</li>
+        }
+    </ul>
+}
+
+
+@code
+{
+    @inject IDbContextFactory<ItisDbContext> DbFactory
+
+    @code {
+        private List<taxonomic_units>? rows;
+
+        protected override async Task OnInitializedAsync()
+        {
+            await using var context = await DbFactory.CreateDbContextAsync();
+
+            rows = await context.taxonomic_units.OrderBy(t => t.complete_name)
+                .AsNoTracking()
+                .ToListAsync();
+        }
+    }
+       
+    }
+
+
+}

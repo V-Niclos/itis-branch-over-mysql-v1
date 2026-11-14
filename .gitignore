@@ -1,0 +1,23 @@
+# Carpetas de compilación de .NET (NO se suben a Git)
+[Bb]in/
+[Oo]bj/
+
+# Carpeta oculta de Visual Studio y configuraciones locales de usuario
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuraciones locales de otros editores (VS Code / Rider)
+.vscode/
+.idea/
+
+# Archivos de publicación y paquetes
+publish/
+*.nupkg
+*.snupkg
+
+# Logs y archivos temporales
+*.log
+*.tmp

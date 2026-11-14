@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/01_Instalacion_ITIS - copia.md" />
+    <File Path="docs/01_Instalacion_ITIS.md" />
+    <File Path="docs/02_Clonar_ITIS_Utf8mb4.md" />
+    <File Path="docs/02_Filtrado_Rama_ITIS.md" />
+    <File Path="docs/03_Filtrado_Rama_ITIS.md" />
+    <File Path="docs/04_Scaffolding_itis_database.md" />
+    <File Path="docs/04_Scaffolding_itis_database_v2.md" />
+    <File Path="docs/05_itis_blazor.md" />
+    <File Path="docs/readme.md" />
+    <File Path="docs/step_write_this_guide.md" />
+  </Folder>
+  <Project Path="src/Testudines.Data.Itis/Testudines.Data.Itis.csproj" />
+  <Project Path="tests/Testudines.Itis.Data.BlazorTest/Testudines.Itis.Data.BlazorTest.csproj" />
+  <Project Path="tests/Testudines.Itis.Data.ConsoleTest/Testudines.Itis.Data.ConsoleTest.csproj" />
+</Solution>
