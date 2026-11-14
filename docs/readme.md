@@ -10,8 +10,7 @@ Use a local clone of the ITIS (Integrated Taxonomic Information System) database
 
 Note:
 
-You can get source code of Testudines.Data.Itis and tests examples in src folder.
-[src folder](https://github.com/V-Niclos/itis-branch-over-mysql-v1/tree/master/tests)
+You can get source code of [Testudines.Data.Itis ](https://github.com/V-Niclos/itis-branch-over-mysql-v1/tree/master/src/Testudines.Data.Itis) and tests examples in [src folder](https://github.com/V-Niclos/itis-branch-over-mysql-v1/tree/master/tests)
 
 ### Working environment
 
