@@ -8,7 +8,9 @@
 
 Use a local clone of the ITIS (Integrated Taxonomic Information System) database, resolve encoding issues by converting it to `utf8mb4`, and optionally reduce the database to a taxonomic branch.
 
-## Procedures
+Note:
+
+You can get source code of Testudines.Data.Itis and tests examples in src folder.
 
 ### Working environment
 
@@ -72,5 +74,5 @@ Continue on to [Step 05](05_Test ITIS Console.md).
 
 Create a simple web applictation Blazor Net. 10, for using the database obtained in Step 4, List taxonomic units 
 
-Continue on to [Step 06](05_Test ITIS Console.md).
+Continue on to [Step 06]docs/Step 06_Test_In_Blazor_Net.md).
 
